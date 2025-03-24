@@ -1,8 +1,2 @@
-node_modules
-.DS_Store
-dist
-dist-ssr
-*.local
-.vinxi
-.netlify
-.env
+# Anthropic configuration
+VITE_ANTHROPIC_API_KEY=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
